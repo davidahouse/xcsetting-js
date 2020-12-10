@@ -1,7 +1,7 @@
 {
   "name": "xcsetting",
   "main": "bin/xcsetting.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line app for returning Xcode build settings",
   "license": "MIT",
   "repository": "davidahouse/xcsetting",
